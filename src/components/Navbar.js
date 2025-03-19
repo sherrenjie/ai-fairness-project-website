@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav style={styles.nav}>
-      <div style={styles.logo}>AI Fairness Platform</div>
+      <div style={styles.logo}>AI Fairness for Recruitment</div>
       <div style={styles.links}>
         <Link to="/" style={styles.link}>
           Home
